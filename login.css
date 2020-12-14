@@ -1,0 +1,109 @@
+body{
+    height: 80%;
+    width:80%;
+    background-color: rgb(255,190,162);
+
+}
+.container{
+    display: block;
+    background-color: rgb(12, 13, 41);
+    height: 35rem;
+    width: 20rem;
+    margin-left: 31rem;
+    margin-top: 3rem;
+    box-shadow: -10px 10px rgb(223, 168, 145);
+}
+.title{
+    text-align: center;
+    font-size: 2.5rem;
+    color: seashell;
+    font-family: sans-serif;
+    padding-top: 2rem;
+}
+.text{
+    text-align: center;
+    color: rgb(247, 152, 136);
+}
+
+.button1{
+    background-color: rgb(24, 25, 53) ;
+    color: seashell;
+    float: left;
+    margin-left: 1rem;
+    padding-top:.5rem;
+
+    text-align: center;
+    border: none;
+    width: 45%;
+    height: 2rem;
+    
+
+}
+
+.button2{
+    background-color: rgb(12, 13, 41) ;
+    color: seashell;
+    float: left;
+    margin-right: 1rem;
+    padding-top: .1rem;
+    text-align: center;
+    border: none;
+    width: 45%;
+    height: 2rem;
+    d
+    
+    
+    
+}
+
+ 
+.form{
+    background-color: rgb(24, 25, 53) ;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    color: seashell;
+    padding: 1rem;
+    /* position: relative; */
+}
+.label{
+    text-align: left;
+    margin-left: 2rem;
+    margin-top: 1rem;
+    color: rgb(247, 152, 136);
+    display: block;
+    padding-top: 2rem;
+    transition: .5s;
+}
+.input{
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid wheat;
+    margin-left: 2rem;
+    margin-top: .2rem;
+    outline: none;
+}
+.input :focus{
+    background: transparent;
+    color: white;
+    
+}
+.checkbox{
+    margin-left: 2rem;
+    margin-top: .2rem;
+    color: white;
+}
+
+.sign-up{
+    margin-left: 5.5rem ;
+
+    
+}
+.button3{
+width: 5rem;
+height: 2rem ;
+background: transparent;
+border: 1px solid white;
+color: white;
+position: absolute;
+
+}
